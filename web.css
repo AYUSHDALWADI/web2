@@ -91,7 +91,7 @@ body{
     text-align: center;
     height: 100%;
     width: 100%;
-    color: gray !important;
+    color: rgba(128, 128, 128, 0.11) !important;
 }
 .ab1 h1{
     margin-top: 37px;
@@ -209,7 +209,7 @@ justify-content: center;
 .m1:hover {
   transform: translateY(-2px);
   cursor: wait;
-  background-color:#1C212E !important;
+  background-color:#1C212E;
 }
 .m2 i{
 border: 2px solid #10A3D7 !important;
@@ -248,7 +248,7 @@ justify-content: center;
 .m2:hover {
   transform: translateY(-2px);
   cursor: wait;
-  background-color:#1C212E !important;
+  background-color:#1C212E;
 }
 
 .m3 i{
@@ -288,7 +288,7 @@ justify-content: center;
 .m3:hover {
   transform: translateY(-2px);
   cursor: wait;
-  background-color:#1C212E !important;
+  background-color:#1C212E;
 }
 .m4 i{
 border: 2px solid #10A3D7 !important;
@@ -327,7 +327,7 @@ justify-content: center;
 .m4:hover {
   transform: translateY(-2px);
   cursor: wait;
-  background-color:#1C212E !important;
+  background-color:#1C212E ;
 }
 .m5 i{
 border: 2px solid #10A3D7 !important;
@@ -366,7 +366,7 @@ justify-content: center;
 .m5:hover {
   transform: translateY(-2px);
   cursor: wait;
-  background-color:#1C212E !important;
+  background-color:#1C212E ;
 }
 .m6 i{
 border: 2px solid #10A3D7 !important;
@@ -405,19 +405,21 @@ justify-content: center;
 .m6:hover {
   transform: translateY(-2px);
   cursor: wait;
-  background-color:#1C212E !important;
+  background-color:#1C212E;
 }
 .crd1 h5{
     font-size: 45px;
     font-family: sans-serif;
     color: white !important;
-    background-color: #252A2B
+    background-color: #252A2B;
+     text-align: center;
 }
 .crd1 P{
     color: wheat !important;
-    font-size: 13px;
-    font-weight: 900px;
-    background-color: #252A2B
+    font-size: 15px;
+    font-weight: 400;
+    background-color: #252A2B;
+     text-align: center;
 }
 .crd1 i{
     border: 2px solid #112C40 !important;
@@ -433,11 +435,161 @@ justify-content: center;
     margin-top: 30px;
 }
 .card-body{
-     background-color: #252A2B
+     background-color: #252A2B;
 }
 .crd1{
     border: 2px solid #252A2B !important;
     background-color: #252A2B !important;
     border-radius: 10px !important;
     
+}
+.crd2 h5{
+    font-size: 45px;
+    font-family: sans-serif;
+    color: white !important;
+    background-color: #252A2B;
+     text-align: center;
+}
+.crd2 P{
+    color: wheat !important;
+    font-size: 15px;
+    font-weight: 400;
+    background-color: #252A2B;
+     text-align: center;
+}
+.crd2 i{
+    border: 2px solid orangered !important;
+    height: 80px;
+    width: 80px;
+    background-color:orangered !important;
+    border-radius: 50%;
+    color: white !important;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.card-body{
+     background-color: #252A2B
+}
+.crd2{
+    border: 2px solid #252A2B !important;
+    background-color: #252A2B !important;
+    border-radius: 10px !important;
+    
+}
+.crd3 h5{
+    font-size: 45px;
+    font-family: sans-serif;
+    color: white !important;
+    background-color: #252A2B;
+     text-align: center;
+}
+.crd3 P{
+    color: wheat !important;
+    font-size: 15px;
+    font-weight: 400;
+    background-color: #252A2B;
+     text-align: center;
+}
+.crd3 i{
+    border: 2px solid darkgreen !important;
+    height: 80px;
+    width: 80px;
+    background-color:darkgreen !important;
+    border-radius: 50%;
+    color: limegreen !important;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.card-body{
+     background-color: #252A2B
+}
+.crd3{
+    border: 2px solid #252A2B !important;
+    background-color: #252A2B !important;
+    border-radius: 10px !important;
+    
+}
+.crd4 h5{
+    font-size: 45px;
+    font-family: sans-serif;
+    color: white !important;
+    background-color: #252A2B;
+    text-align: center;
+}
+.crd4 P{
+    color: wheat !important;
+    font-size: 15px;
+    font-weight: 400;
+    background-color: #252A2B;
+     text-align: center;
+}
+.crd4 i{
+    border: 2px solid darkmagenta !important;
+    height: 80px;
+    width: 80px;
+    background-color:darkmagenta !important;
+    border-radius: 50%;
+    color: deeppink !important;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.card-body{
+     background-color: #252A2B
+}
+.crd4{
+    border: 2px solid #252A2B !important;
+    background-color: #252A2B !important;
+    border-radius: 10px !important;
+    
+}
+.mm1 i:hover{
+    cursor: crosshair;
+    scale: 1.1;
+}
+.hh1{
+    position: relative;
+    
+   
+}
+.hh1::after{
+    position: absolute;
+    content: "SERVICES";
+    font-size: 50px;
+    font-weight: 500;
+    top: 0;
+    left: 0;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: rgba(128, 128, 128, 0.089) !important;
+    padding-top: 100px;
+}
+.hh1 h3{
+    z-index: -1;
+    padding-top: 140px;
+}
+.mm2 h5{
+    border:2px solid #10A3D7;
+    background-color: #10A3D7;
+    height: 30px;
+    width: 220px;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: center;
+}
+.pera1{
+    font-size: 38px;
+    font-weight: 600;
+}
+.mm2{
+    margin:0px;
 }
