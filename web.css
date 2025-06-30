@@ -683,5 +683,337 @@ justify-content: center;
     align-items: center;
 }
 .cc1 h5{
+    font-size: 25px;
+    background-color:#252A2B ;
+    color: white;
+    margin-top: 15px;
+}
+.cc1 p{
+     background-color:#252A2B ;
+     color: beige;
+     margin-top: 10px;
+}
+.cc1{
     
+     border: 2px solid #252A2B !important;
+    background-color: #252A2B !important;
+    border-radius: 5px !important;
+}
+.cc2 i{
+    height: 60px;
+    width: 60px;
+    border: 2px solid rgb(2, 24, 63);
+    background-color:rgb(2, 24, 63);
+    font-size: 30px;
+    color:cyan;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cc2 h5{
+    font-size: 25px;
+    background-color:#252A2B ;
+    color: white;
+    margin-top: 15px;
+}
+.cc2 p{
+     background-color:#252A2B ;
+     color: beige;
+     margin-top: 10px;
+}
+.cc2{
+    
+     border: 2px solid #252A2B !important;
+    background-color: #252A2B !important;
+    border-radius: 5px !important;
+}
+.cc3 i{
+    height: 60px;
+    width: 60px;
+    border: 2px solid rgb(2, 24, 63);
+    background-color:rgb(2, 24, 63);
+    font-size: 30px;
+    color:cyan;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cc3 h5{
+    font-size: 25px;
+    background-color:#252A2B ;
+    color: white;
+    margin-top: 15px;
+}
+.cc3 p{
+     background-color:#252A2B ;
+     color: beige;
+     margin-top: 10px;
+}
+.cc3{
+    
+     border: 2px solid #252A2B !important;
+    background-color: #252A2B !important;
+    border-radius: 5px !important;
+}
+.cc4 i{
+    height: 60px;
+    width: 60px;
+    border: 2px solid rgb(2, 24, 63);
+    background-color:rgb(2, 24, 63);
+    font-size: 30px;
+    color:cyan;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cc4 h5{
+    font-size: 25px;
+    background-color:#252A2B ;
+    color: white;
+    margin-top: 15px;
+}
+.cc4 p{
+     background-color:#252A2B ;
+     color: beige;
+     margin-top: 10px;
+}
+.cc4{
+    
+     border: 2px solid #252A2B !important;
+    background-color: #252A2B !important;
+    border-radius: 5px !important;
+}
+.hh2{
+    position: relative;
+}
+.hh2::after{
+    position: absolute;
+    content: "FEATURES";
+    font-size: 50px;
+    font-weight: 500;
+    top: 0;
+    left: 0;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: rgba(128, 128, 128, 0.089) !important;
+    padding-top: 100px;
+    font-weight: 700;
+}
+.hh2 h3{
+    z-index: -1;
+    padding-top: 140px;
+    font-size: 40px;
+}
+.cr1 p{
+    font-size: 18px;
+    color:gray ;
+    margin-top: 20px;
+}
+.crc2 i{
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(2, 24, 63);
+    background-color:rgb(2, 24, 63);
+    font-size: 20px;
+    color:cyan;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 60px;
+    top: 10px;
+}
+.crc2 h3{
+margin:0;
+position: relative;
+    bottom: 50px;
+}
+.crc2 span{
+    position: relative;
+    bottom: 50px;
+}
+.crc3 h3{
+margin:0;
+position: relative;
+    bottom: 50px;
+}
+.crc3 i{
+    height: 50px;
+    width: 50px;
+    border: 2px solid rgb(2, 24, 63);
+    background-color:rgb(2, 24, 63);
+    font-size: 20px;
+    color:cyan;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 60px; 
+    top: 10px;
+}
+.crc3 span{
+    position: relative;
+    bottom: 50px;
+}
+.crc{
+    gap: 100px;
+    padding-left: 40px;
+}
+.cb1 i{
+    font-size: 30px;
+    color:cyan;
+    background-color: #252A2B !important;
+}
+.cb1 h5{
+    font-size: 20px;
+    background-color:#252A2B ;
+    color: white;
+    margin-top: 15px;
+    border-radius: 15px !important;
+
+}
+.cb1 p{
+     background-color:#252A2B ;
+     color: beige;
+     margin-top: 10px;
+     border-radius: 15px !important;
+}
+
+.cb1 li{
+    height: 25px;
+    width: 100px;
+    border: 2px solid green;
+    background-color: green;
+    border-radius: 50px;
+    color: white;
+    font-size: 13px;
+    padding-left: 10px;
+}    
+.cb1{
+    
+     border-left: 4px solid skyblue !important;
+    background-color: #252A2B !important;
+    border-radius: 15px !important;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.body{
+    background-color: #252A2B;
+}
+.cb2 i{
+    font-size: 30px;
+    color:cyan;
+    background-color: #252A2B !important;
+}
+.cb2 h5{
+    font-size: 18px;
+    background-color:#252A2B ;
+    color: white;
+    margin-top: 15px;
+    border-radius: 15px !important;
+
+}
+.cb2 p{
+     background-color:#252A2B ;
+     color: beige;
+     margin-top: 10px;
+     border-radius: 15px !important;
+}
+
+.cb2 li{
+    height: 25px;
+    width: 150px;
+    border: #f89131;
+    background-color:#f89131;
+    border-radius: 50px;
+    color: white;
+    font-size: 13px;
+    padding-left: 10px;
+    padding-top: 3px;
+}    
+.cb2{
+    
+     border-left: 4px solid skyblue !important;
+    background-color: #252A2B !important;
+    border-radius: 15px !important;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+.cd1 i{
+    font-size: 30px;
+    color:cyan;
+    background-color: #252A2B !important;
+}
+.cd1 h5{
+    font-size: 18px;
+    background-color:#252A2B ;
+    color: white;
+    margin-top: 15px;
+    border-radius: 15px !important;
+
+}
+.cd1 p{
+     background-color:#252A2B ;
+     color: beige;
+     margin-top: 10px;
+     border-radius: 15px !important;
+}
+
+.cd1 li{
+    height: 25px;
+    width: 100px;
+    border: 2px solid green;
+    background-color: green;
+    border-radius: 50px;
+    color: white;
+}    
+.cd1{
+    
+     border-left: 4px solid skyblue !important;
+    background-color: #252A2B !important;
+    border-radius: 15px !important;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.cd2 i{
+    font-size: 30px;
+    color:cyan;
+    background-color: #252A2B !important;
+}
+.cd2 h5{
+    font-size: 25px;
+    background-color:#252A2B ;
+    color: white;
+    margin-top: 15px;
+    border-radius: 15px !important;
+
+}
+.cd2 p{
+     background-color:#252A2B ;
+     color: beige;
+     margin-top: 10px;
+     border-radius: 15px !important;
+}
+
+.cd2 li{
+    height: 25px;
+    width: 100px;
+    border: 2px solid lawngreen;
+    background-color: lawngreen;
+    border-radius: 50px;
+    color: green;
+}    
+.cd2{
+    
+     border-left: 4px solid skyblue !important;
+    background-color: #252A2B !important;
+    border-radius: 15px !important;
+    padding-left: 30px;
+    padding-top: 20px;
 }
