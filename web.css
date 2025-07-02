@@ -1201,7 +1201,7 @@ position: relative;
 }
 .cl1{
     height: 80px;
-    width: 400px;
+    width: 350px;
     border: 2px solid #10A3D7;
     background-color: #10A3D7;
     border-radius: 10px;
@@ -1212,3 +1212,207 @@ position: relative;
     background-color: #10A3D7;
     border-radius: 10px;
 }
+.clt1 p{
+    background-color: #10A3D7;
+    font-size: 20px;
+    margin: 0;
+    border-radius: 10px;
+}
+.clt1 span{
+    background-color: #10A3D7;
+    font-size: 15px;
+    color: mintcream;
+    border-radius: 10px;
+}
+.cl2 i{
+    height: 50px;
+    width: 60px;
+    border: 2px solid #107695;
+    background-color:#107695;
+    font-size: 20px;
+    color:white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cl2{
+    height: 80px;
+    width: 350px;
+    border: 2px solid #10A3D7;
+    background-color: #10A3D7;
+    border-radius: 10px;
+    align-items: center;
+    padding-left: 20px;
+}
+.clt2{
+    background-color: #10A3D7;
+    border-radius: 10px;
+}
+.clt2 p{
+    background-color: #10A3D7;
+    font-size: 20px;
+    margin: 0;
+    border-radius: 10px;
+}
+.clt2 span{
+    background-color: #10A3D7;
+    font-size: 15px;
+    color: mintcream;
+    border-radius: 10px;
+}
+.cl3 i{
+    height: 50px;
+    width: 60px;
+    border: 2px solid #107695;
+    background-color:#107695;
+    font-size: 20px;
+    color:white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cl3{
+    height: 80px;
+    width: 350px;
+    border: 2px solid #10A3D7;
+    background-color: #10A3D7;
+    border-radius: 10px;
+    align-items: center;
+    padding-left: 20px;
+}
+.clt3{
+    background-color: #10A3D7;
+    border-radius: 10px;
+}
+.clt3 p{
+    background-color: #10A3D7;
+    font-size: 20px;
+    margin: 0;
+    border-radius: 10px;
+}
+.clt3 span{
+    background-color: #10A3D7;
+    font-size: 15px;
+    color: mintcream;
+    border-radius: 10px;
+}
+.cl4 i{
+    height: 50px;
+    width: 60px;
+    border: 2px solid #107695;
+    background-color:#107695;
+    font-size: 20px;
+    color:white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cl4{
+    height: 80px;
+    width: 350px;
+    border: 2px solid #10A3D7;
+    background-color: #10A3D7;
+    border-radius: 10px;
+    align-items: center;
+    padding-left: 20px;
+}
+.clt4{
+    background-color: #10A3D7;
+    border-radius: 10px;
+}
+.clt4 p{
+    background-color: #10A3D7;
+    font-size: 20px;
+    margin: 0;
+    border-radius: 10px;
+}
+.clt4 span{
+    background-color: #10A3D7;
+    font-size: 15px;
+    color: mintcream;
+    border-radius: 10px;
+}
+.cl5 i{
+    height: 50px;
+    width: 60px;
+    border: 2px solid #107695;
+    background-color:#107695;
+    font-size: 20px;
+    color:white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cl5{
+    height: 80px;
+    width: 350px;
+    border: 2px solid #10A3D7;
+    background-color: #10A3D7;
+    border-radius: 10px;
+    align-items: center;
+    padding-left: 20px;
+}
+.clt5{
+    background-color: #10A3D7;
+    border-radius: 10px;
+}
+.clt5 p{
+    background-color: #10A3D7;
+    font-size: 20px;
+    margin: 0;
+    border-radius: 10px;
+}
+.clt5 span{
+    background-color: #10A3D7;
+    font-size: 15px;
+    color: mintcream;
+    border-radius: 10px;
+}
+.pr1{
+    height: 120px;
+    width: 330px;
+    border: 2px solid rgb(51, 48, 48);
+    background-color: rgb(51, 48, 48);
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.bord{
+    border-bottom: 4px solid #10A3D7;
+    border-radius: 5px;
+}
+.main1 h3 span{
+     padding-bottom: 10px; 
+}
+.sp1 i{
+color: #10A3D7;
+margin-top: 5px;
+}
+.sp2 i{
+color: #10A3D7;
+margin-top: 5px;
+}
+.sp3 i{
+color: #10A3D7;
+margin-top: 5px;
+}
+.sp4 i{
+color: #10A3D7;
+margin-top: 5px;
+}
+.im1 img{
+    border-radius: 10px;
+}
+.mn1{
+    height: 500px;
+    width: 800px;
+    border: 2px solid #131825;
+    background-color:#131825  !important;
+    border-radius: 10px;
+}
+
