@@ -1415,4 +1415,59 @@ margin-top: 5px;
     background-color:#131825  !important;
     border-radius: 10px;
 }
+.sps1{
+    height: 30px;
+    width: 130px;
+    border: 2px solid #02242e;
+    background-color:#02242e ;
+    border-radius: 50px;
+    color: #10A3D7;
+    font-size: 15px;
+}
+.bs1 i{
+    border: 2px solid #10A3D7;
+    background-color: #10A3D7;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    position: relative;
+    right: 55px;
+    top: 45px;
+}
+.bs2 i{
+    border: 2px solid #10A3D7;
+    background-color: #10A3D7;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    position: relative;
+    right: 55px;
+    top: 45px;
+}
+.bs11{
+    padding-left: 50px;
+    gap: 100px;
+}
+.bt1{
+    border-radius: 8px !important ;
+    font-size: 15px !important ;
+    height: 40px !important ;
+    width: 120px !important ;
+    color: white !important ;
+    font-weight: 600 !important ;
+}
+.bt2{
+    border-radius: 8px !important ;
+    font-size: 15px !important ;
+    height: 40px !important ;
+    width: 120px !important ;
+    color: #10A3D7 !important ;
+    font-weight: 600 !important ;
+}
+.bt11 i{
+    color: #10A3D7;
+    font-size: 25px;
+    position: relative;
+    left: 15px;
+}
 
