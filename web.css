@@ -1,6 +1,4 @@
- *{ 
-    background-color: black ;
-} 
+
 body{
     background-color: black !important;
     color: white !important;
@@ -1447,6 +1445,7 @@ margin-top: 5px;
 .bs11{
     padding-left: 50px;
     gap: 100px;
+   
 }
 .bt1{
     border-radius: 8px !important ;
@@ -1470,4 +1469,69 @@ margin-top: 5px;
     position: relative;
     left: 15px;
 }
+.bk1{
+    background-image: url(background12.jpg) !important;
+    color: whitesmoke;
+    height: 500px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.spp1{
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+   align-items: center;
+   padding-left: 10px;
+   gap: 10px;
+   animation: UpDown 5s ease-in-out infinite;
+   
+}
+.spp1 span{
+    text-align: center;
+}
+.spp1 i{
+    color: #10A3D7;
+}
+.spp2{
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+   align-items: center;
+   padding-left: 10px;
+   gap: 10px;
+   position: relative;
+   left: 270px;
+   bottom: 40px;
+   font-size: 13px;
+   font-weight: 700;
+    animation: UpDown 5s ease-in-out infinite;
+}
+.spp2 span{
+    text-align: center;
+}
+.spp2 i{
+    color: #10A3D7;
+}
+@keyframes UpDown {
+    
+    0%{
+        transform: translateY(-10px);
+    }
+    50%{
+        transform: translateY(-20px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+
+
+
+
+
+
 
