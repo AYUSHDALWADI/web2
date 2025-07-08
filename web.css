@@ -1528,7 +1528,68 @@ margin-top: 5px;
         transform: translateY(0px);
     }
 }
-
+.hd1{
+    color: #1C212E !important;
+    position: relative;
+    margin-top: 50px;
+}
+.hd1::after{
+    position: absolute;
+    content: "Portfolio";
+    font-size: 50px;
+    font-weight: 500;
+    top: 0;
+    left: 0;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: rgba(207, 203, 203, 0.11) !important;
+}
+.hd1 h1{
+    margin-top: 37px;
+    font-size: 28px;
+}
+.rw1{
+    border: 2px solid #4548503d;
+    height: 200px;
+    width: 250px !important;
+    border-radius: 10px;
+    background-color: #4548503d;
+    margin-left: 100px;
+    
+}
+.rw1 span:hover{
+    color: #10A3D7;
+    cursor: pointer;
+    background-color: #1076952a;
+    border-left: 2px solid #10A3D7;
+    border-radius: 5px;
+    width: 200px;
+}
+.rw1 span{
+    padding-left: 20px;
+}
+.hd3{
+    color: #1C212E !important;
+    position: relative;
+    margin-top: 50px;
+}
+.hd3::after{
+    position: absolute;
+    content: "PRICING";
+    font-size: 50px;
+    font-weight: 500;
+    top: 0;
+    left: 0;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: rgba(207, 203, 203, 0.11) !important;
+}
+.hd3 h1{
+    margin-top: 37px;
+    font-size: 28px;
+}
 
 
 
